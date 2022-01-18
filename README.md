@@ -1,12 +1,9 @@
 # Curso-Definitivo-de-HTML-y-CSS
 Curso realizado en Platzi para repasar y actualizar conocimientos en HTML y CSS
 
+![image](https://user-images.githubusercontent.com/60717025/149978244-1d0955db-d7b1-48c7-9ac3-bb377cd7ec9f.png)
+
 # Web Developer Fundamentals
-
-## Bienvenida
-
-Veremos 2 estándares de los 3 que se usan el desarrollo web: HTML y CSS.
-
 # Perfiles de un web developer
 
 ## Frontend
