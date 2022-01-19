@@ -998,8 +998,4 @@ El atributo **alt** nos ayuda a leer la descripción de las imagenes para person
 
 El atributo **title** puede ser usado en varias etiquetas HTML como **img** o **a** y su función es agregar una descripción para cuando el usuario haga hover sobre algún elemento.
 
-Y aquí terminamos 😄. 
-
-Recuerda que si quieres hacer un aporte o corregir algo puedes comentar (Debes tener cuenta en Notion)
-
-**¡Nunca pares de aprender! 🐱‍💻**![image](https://user-images.githubusercontent.com/60717025/149929186-52c65186-f837-41cf-8438-5d4bf96a453b.png)
+[image](https://user-images.githubusercontent.com/60717025/149929186-52c65186-f837-41cf-8438-5d4bf96a453b.png)
